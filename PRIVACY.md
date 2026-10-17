@@ -13,9 +13,9 @@ TrueClose keeps two files on your own PC, and nowhere else:
 - **A log** - a plain text record of what TrueClose did: which app it watched, when a
   window closed, and when an app was closed.
 
-Both live in your own user folder, under %LOCALAPPDATA%\TrueClose. You can open that
-folder from the app, read either file, and delete them at any time. Removing TrueClose
-leaves them in place unless you delete them yourself.
+Both live in your own user folder. The easiest way to find them is the Open folder
+button in the app's About section, which opens the right place. You can read either
+file and delete them at any time. Removing TrueClose removes them too.
 
 ## What TrueClose sends
 
