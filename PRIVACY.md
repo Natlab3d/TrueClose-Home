@@ -1,6 +1,6 @@
 # TrueClose privacy policy
 
-Last updated: 16 October 2026
+Last updated: 31 October 2026
 
 TrueClose does not collect, transmit or sell any personal information.
 
@@ -8,18 +8,20 @@ TrueClose does not collect, transmit or sell any personal information.
 
 TrueClose keeps two files on your own PC, and nowhere else:
 
-- **Your watchlist and settings** - the apps you chose, the delay you chose, and whether
+- **Your watchlist and settings**: the apps you chose, the delay you chose, and whether
   notifications and starting with Windows are turned on.
-- **A log** - a plain text record of what TrueClose did: which app it watched, when a
-  window closed, and when an app was closed.
+- **A log**: a plain text record of what TrueClose did, which app it watched, when a
+  window closed, and when an app was closed. Entries older than 30 days are removed
+  when the app starts.
 
-Both live in your own user folder. The easiest way to find them is the Open folder
+Both files live in your own user folder, so your Windows account permissions protect
+them. TrueClose does not encrypt them. The easiest way to find them is the Open folder
 button in the app's About section, which opens the right place. You can read either
-file and delete them at any time. Removing TrueClose removes them too.
+file and delete them at any time.
 
 ## What TrueClose sends
 
-Nothing. TrueClose has no account, no sign-in and no telemetry. It makes no network
+Nothing. TrueClose has no account, no login and no telemetry. It makes no network
 connections of any kind, so none of the above ever leaves your PC, and the author never
 sees it.
 
@@ -31,7 +33,7 @@ local log described above. It is not sent anywhere.
 
 ## Children
 
-TrueClose is a general-purpose utility and is not directed at children.
+TrueClose is a general purpose utility and is not directed at children.
 
 ## Changes
 
