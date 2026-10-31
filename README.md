@@ -13,8 +13,9 @@ Everything else is left alone. TrueClose only ever touches the apps on your list
 
 ## How it works
 
-1. Add apps to your watchlist from a picker that shows what is running.
-2. Choose one delay - a few seconds, or a few minutes, whatever suits you.
+1. Add apps to your watchlist from a picker that lists the apps on your PC.
+2. Choose a default delay for all your apps, from 10 seconds to 5 minutes, and give any
+   single app its own if it needs longer.
 3. Close the window and forget about it. Reopen it in time and nothing happens.
 4. An optional notification tells you when an app has been fully closed.
 
@@ -25,7 +26,11 @@ any kind. See [PRIVACY.md](PRIVACY.md).
 ## Getting TrueClose
 
 TrueClose is free. It is on its way to the **Microsoft Store**, which is where it will be
-available to download. This page will be updated with the Store link once it is live.
+available to download.
+
+Windows now blocks unsigned apps on many PCs, so the Store version, which Microsoft signs
+during publishing, is the one that will install and run cleanly. This page will be
+updated with the Store link once it is live.
 
 ## Requirements
 
@@ -38,6 +43,6 @@ happened instead.
 
 ## About
 
-TrueClose is free, closed-source software by Natlab3d. The source code is not public.
+TrueClose is free, closed source software by Natlab3d. The source code is not public.
 
-(c) 2026 Michelangelo Natoli. All rights reserved.
+© 2026 Michelangelo Natoli. All rights reserved.
