@@ -25,12 +25,11 @@ any kind. See [PRIVACY.md](PRIVACY.md).
 
 ## Getting TrueClose
 
-TrueClose is free. It is on its way to the **Microsoft Store**, which is where it will be
-available to download.
+TrueClose is free. You can install it directly from the Microsoft Store:
 
-Windows now blocks unsigned apps on many PCs, so the Store version, which Microsoft signs
-during publishing, is the one that will install and run cleanly. This page will be
-updated with the Store link once it is live.
+**[Download TrueClose from the Microsoft Store](https://apps.microsoft.com/detail/9PB0LQ7Z743Z)**
+
+The Microsoft Store version installs cleanly, is signed by Microsoft, and updates automatically.
 
 ## Requirements
 
