@@ -3,7 +3,7 @@
 **Closed should mean closed.**
 
 Some apps do not really close. You press X, the window disappears, and the app carries on
-running in the background, holding memory until you restart the PC.
+running in the background, often holding memory until you restart the PC.
 
 TrueClose fixes that. You pick which apps it should watch. When you close an app's last
 window, TrueClose waits for the delay you chose, and if you have not reopened it by then,
