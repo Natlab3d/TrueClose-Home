@@ -7,7 +7,8 @@ running in the background, often holding memory until you restart the PC.
 
 TrueClose fixes that. You pick which apps it should watch. When you close an app's last
 window, TrueClose waits for the delay you chose, and if you have not reopened it by then,
-the app is fully closed.
+the app is fully closed. In the last second it first asks the app to close itself, the way
+Windows does at shutdown, and ends whatever is still running afterwards.
 
 Everything else is left alone. TrueClose only ever touches the apps on your list.
 
@@ -18,6 +19,9 @@ Everything else is left alone. TrueClose only ever touches the apps on your list
    single app its own if it needs longer.
 3. Close the window and forget about it. Reopen it in time and nothing happens.
 4. An optional notification tells you when an app has been fully closed.
+
+Time the PC spends asleep does not count towards the delay. When it wakes, every countdown
+starts again, so you always get the full delay.
 
 TrueClose sits quietly in the notification area. It does not need administrator rights,
 it does not install a service, and it has no account, no telemetry and no network use of
